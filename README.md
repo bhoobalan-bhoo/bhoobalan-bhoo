@@ -9,7 +9,7 @@ Student 👨‍🎓
 * 🧠  I'm learning a new framework
 * 🤝  I'm open to collaborating on Machine Learning Projects
 
- <img align="right" alt="GIF" src="https://github.com/bhoobalan-bhoo/bhoobalan-bhoo/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/bhoobalan-bhoo/bhoobalan-bhoo/blob/main/code.gif?raw=true" width="400" height="300" />
  
 ### Skills
 
