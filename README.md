@@ -9,6 +9,8 @@ Student 👨‍🎓
 * 🧠  I'm learning a new framework
 * 🤝  I'm open to collaborating on Machine Learning Projects
 
+ <img align="right" alt="GIF" src="https://github.com/bhoobalan-bhoo/bhoobalan-bhoo/blob/main/code.gif?raw=true" width="500" height="320" />
+ 
 ### Skills
 
 <p align="left">
@@ -32,7 +34,7 @@ Student 👨‍🎓
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
 
- <img align="right" alt="GIF" src="https://github.com/bhoobalan-bhoo/bhoobalan-bhoo/blob/main/code.gif?raw=true" width="500" height="320" />
+
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/kal#6704" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/bhoobalan-bhoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/linux_bhooo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bhoobalan-b-r-920850213" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bhoobalan_br" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
