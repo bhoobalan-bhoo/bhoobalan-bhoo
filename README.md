@@ -6,7 +6,7 @@ Student 👨‍🎓
 
 * 🌍  I'm from India
 * ✉️  You can contact me at [bhoobalanrajavel@gmail.com](mailto:bhoobalanrajavel@gmail.com)
-* 🧠  I'm learning a new framework
+* 🧠  I'm learning a new clickhouse, which is column-oriented DBMS.
 * 🤝  I'm open to collaborating on Machine Learning Projects
 
  <img align="right" alt="GIF" src="https://github.com/bhoobalan-bhoo/bhoobalan-bhoo/blob/main/code.gif?raw=true" width="400" height="300" />
