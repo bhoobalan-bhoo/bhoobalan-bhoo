@@ -8,7 +8,7 @@ Student 👨‍🎓
 * ✉️  You can contact me at [bhoobalanrajavel@gmail.com](mailto:bhoobalanrajavel@gmail.com)
 * 🧠  I'm learning a clickhouse, which is column-oriented DBMS.
 * 🤝  I'm open to collaborating on Web Application Projects
-* 💼  Hire me! [Resume](https://github.com/bhoobalan-bhoo/bhoobalan-bhoo/raw/main/BHOOBALAN%20B%20R-CSE-05.02.2023.pdf)
+* 💼  Hire me! 🪄 [Resume](https://github.com/bhoobalan-bhoo/bhoobalan-bhoo/raw/main/BHOOBALAN%20B%20R-CSE-05.02.2023.pdf) 🪄 [Portfolio](https://bhoobalan-bhoo.github.io/)
 
  <img align="right" alt="GIF" src="https://github.com/bhoobalan-bhoo/bhoobalan-bhoo/blob/main/code.gif?raw=true" width="400" height="300" />
  
