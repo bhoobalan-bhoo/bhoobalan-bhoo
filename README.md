@@ -5,7 +5,7 @@ Student 👨‍🎓
 -------------
 
 * 🌍  I'm from India
-* ✉️  You can contact me : [bhoobalanrajavel@gmail.com](mailto:bhoobalanrajavel@gmail.com)
+* ✉️  You can contact me : [bhoobalanrajavel@gmail.com](mailto:bhoobalanrajavel@gmail.com) , [bhoobalan.cs20@bitsathy.ac.in](mailto:bhoobalan.cs20@bitsathy.ac.in)
 * 🧠  I'm learning a Clickhouse, which is column-oriented DBMS.
 * 🤝  I'm open to collaborating on Web Application Projects
 * 💼  Hire me! 🪄 [Resume](https://github.com/bhoobalan-bhoo/bhoobalan-bhoo/raw/main/BHOOBALAN%20B%20R-CSE-10.02.2023.pdf) 🪄 [Portfolio](https://bhoobalan-bhoo.github.io/)
