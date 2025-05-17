@@ -1,102 +1,59 @@
-<!-- LINUX MODE README -->
+# 👋 Hi, I'm Bhoobalan B R
 
-```
->>> INITIALIZING...  
->>> USER PROFILE: BHOOBALAN B R  
->>> STATUS: 🟢 ACTIVE | 🎯 HIRING SIGNAL: STRONG  
->>> LOCATION: 🌍 EARTH (INDIA NODE)
->>> ACCESS LEVEL: SOFTWARE ALCHEMIST  
->>> CLEARANCE: 🔐 FULL STACK  
-```
-
-## 🧠 SYSTEM BOOT: ABOUT.ME
-
-```bash
-> whoami
-🧑‍💻 Bhoobalan — Code Ninja, API Whisperer, DOM Tamer
-
-> mission --status
-To architect chaos into order via pixels, endpoints, and databases.
-
-> nano purpose.txt
-- Break the Matrix with LangChain spells 🧙‍♂️
-- Fix bugs I didn’t write, in systems I’ve never seen 👾
-- Build cool sh*t with brilliant minds 🤝
-```
+🚀 **Software Developer | Open to Work | Backend | Full Stack Enthusiast**  
+📍 Based in India | 🛠️ Passionate about building impactful web applications
 
 ---
 
-## ⚙️ TOOLS INSTALLED
+## 🧠 About Me
 
-```bash
-> sudo apt install skills --yes
-
-🧬 LANGUAGES:  Python, Node.js, Java, PHP, C  
-🧱 FRAMEWORKS: Vue.js, React.js, Laravel, FastAPI, LangChain, Flask  
-🧠 AI TOOLS:   LLMs, Prompt Engineering, Guardrails  
-🗃️ DATABASES: PostgreSQL, MySQL, MongoDB, ClickHouse, DynamoDB, Redis  
-📦 DEVOPS:    Docker, AWS, Proxmox, CI/CD  
-🎨 CREATIVE:  Photoshop, Illustrator, Git Wizardry
-```
-
----
-
-## 🛰️ CURRENTLY TRANSMITTING...
-
-```bash
-> tail -f life.log
-
-🌌 Learning: ClickHouse + LLM pipelines  
-🚀 Project: Video Banking System (35,000+ mins streamed monthly)  
-🧪 Experimenting: Secure AI prompts w/ Guardrails  
-📡 Seeking: Remote missions, meaningful problems, galactic compensation
-```
+- 🎓 Graduate in Computer Science & Engineering (CGPA: 8.9)
+- 🌱 Currently exploring: `ClickHouse`, `LangChain`, `LLMs`, `FastAPI`, `Prompt Engineering`
+- 👨‍💻 I love working on real-time web systems, dev tools, and automation
+- 🤝 Open to collaborating on meaningful tech products or SaaS tools
+- ✉️ Reach me at:  
+  [📧 bhoobalanrajavel@gmail.com](mailto:bhoobalanrajavel@gmail.com)  
+  [📧 bhoobalan.cs20@bitsathy.ac.in](mailto:bhoobalan.cs20@bitsathy.ac.in)
+- 💼 Open to work!  
+<a href="https://bhoobalan.s3.ap-south-1.amazonaws.com/Bhoobalan-B-R.pdf" target="_blank">📄 Resume</a> | <a href="https://bhoobalan-bhoo.github.io/" target="_blank">🌐 Portfolio</a>
 
 ---
 
-## 🔐 SECRET PROJECTS
+<img align="right" alt="GIF" src="https://github.com/bhoobalan-bhoo/bhoobalan-bhoo/blob/main/code.gif?raw=true" width="400" height="300" />
 
-```bash
-> ls ~/projects/
+## 🛠️ Skills
 
-📁 crm-medicine-distribution/      // Laravel + Grafana + PostgreSQL  
-📁 system-utilization-analyzer/    // Python + Grafana dashboard  
-📁 virtual-bank-support/           // Node.js + ML cost estimator + EC2 scaling
-```
+**Languages & Scripting:**  
+`Python`, `Node.js`, `PHP`, `Java`, `C`
 
----
+**Frameworks & Libraries:**  
+`Vue.js`, `React.js`, `FastAPI`, `Flask`, `LangChain`, `Laravel`, `LLMs`, `Guardrails`
 
-## 🛰️ CONTACT PROTOCOL
+**Databases:**  
+`PostgreSQL`, `MySQL`, `MongoDB`, `Redis`, `ClickHouse`, `DynamoDB`
 
-```bash
-> connect --to=bhoobalan
-
-📧 Email: bhoobalanrajavel@gmail.com  
-🌐 Portfolio: https://bhoobalan-bhoo.github.io/  
-📄 Resume: https://bhoobalan.s3.ap-south-1.amazonaws.com/Bhoobalan-B-R.pdf  
-🔗 LinkedIn: https://linkedin.com/in/bhoobalan-b-r  
-🧠 GitHub: https://github.com/bhoobalan-bhoo
-🛰️ Discord: kal#6704
-```
+**DevOps & Tools:**  
+`Docker`, `AWS (EC2, Global Accelerator)`, `CI/CD`, `Proxmox`, `Grafana`, `Photoshop`, `Illustrator`
 
 ---
 
-## ☠️ FUN FACT
+## 📈 Projects Snapshot
 
-```bash
-> fortune | lolcat
-
-💬 “Once debugged a prod issue using just logs, muscle memory, and blind faith.”  
-💬 “Built a feedback system covering 30,000+ homes using QR magic and Photoshop automation.”  
-💬 “Talks to APIs like they're people. They usually respond.”
-```
+- **🎥 Video Banking System** – Virtual support system for banks, used over 35,000+ minutes monthly
+- **🏥 CRM App for Pharma Sales** – Streamlined medicine distribution using Laravel, Grafana
+- **🖥️ System Utilization Analyzer** – Real-time PC status tracking with Python, PostgreSQL, Grafana
 
 ---
 
-## 🧩 JOIN MY QUEST?
+## 🔗 Connect With Me
 
-```bash
-> apply --with-curiosity --no-bs --hire-bhoobalan
+<p align="left">
+  <a href="https://www.linkedin.com/in/bhoobalan-b-r" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://discord.com/users/kal#6704" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+  <a href="https://www.github.com/bhoobalan-bhoo" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://www.twitter.com/bhoobalan_br" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
 
-Let's disrupt the ordinary together 🚀
-```
+---
+
+🧩 Let’s build something amazing together.
