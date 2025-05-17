@@ -18,8 +18,6 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://github.com/bhoobalan-bhoo/bhoobalan-bhoo/blob/main/code.gif?raw=true" width="400" height="300" />
-
 ## 🛠️ Skills
 
 **Languages & Scripting:**  
