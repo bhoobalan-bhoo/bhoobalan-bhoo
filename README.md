@@ -1,58 +1,102 @@
-# 👋 Hi, I'm Bhoobalan B R
+<!-- LINUX MODE README -->
 
-🚀 **Software Developer | Open to Work | Backend | Full Stack Enthusiast**  
-📍 Based in India | 🛠️ Passionate about building impactful web applications
+```
+>>> INITIALIZING...  
+>>> USER PROFILE: BHOOBALAN B R  
+>>> STATUS: 🟢 ACTIVE | 🎯 HIRING SIGNAL: STRONG  
+>>> LOCATION: 🌍 EARTH (INDIA NODE)
+>>> ACCESS LEVEL: SOFTWARE ALCHEMIST  
+>>> CLEARANCE: 🔐 FULL STACK  
+```
 
----
+## 🧠 SYSTEM BOOT: ABOUT.ME
 
-## 🧠 About Me
+```bash
+> whoami
+🧑‍💻 Bhoobalan — Code Ninja, API Whisperer, DOM Tamer
 
-- 🎓 Graduate in Computer Science & Engineering (CGPA: 8.9)
-- 🌱 Currently exploring: `ClickHouse`, `LLMs`, `LCMs`, `FastAPI`, 
-- 👨‍💻 I love working on real-time web systems, dev tools, and automation
-- 🤝 Open to collaborating on meaningful tech products or SaaS tools
-- ✉️ Reach me at:  
-  [📧 bhoobalanrajavel@gmail.com](mailto:bhoobalanrajavel@gmail.com)  
-- 💼 Open to work!  
-  [📄 Resume](https://bhoobalan.s3.ap-south-1.amazonaws.com/Bhoobalan-B-R.pdf) | [🌐 Portfolio](https://bhoobalan-bhoo.github.io/)
+> mission --status
+To architect chaos into order via pixels, endpoints, and databases.
 
----
-
-<img align="right" alt="GIF" src="https://github.com/bhoobalan-bhoo/bhoobalan-bhoo/blob/main/code.gif?raw=true" width="400" height="300" />
-
-## 🛠️ Skills
-
-**Languages & Scripting:**  
-`Python`, `Node.js`, `PHP`, `Java`, `C`
-
-**Frameworks & Libraries:**  
-`Vue.js`, `React.js`, `FastAPI`, `Flask`, `LangChain`, `Laravel`, `LLMs`, `Guardrails`
-
-**Databases:**  
-`PostgreSQL`, `MySQL`, `MongoDB`, `Redis`, `ClickHouse`, `DynamoDB`
-
-**DevOps & Tools:**  
-`Docker`, `AWS (EC2, Global Accelerator)`, `CI/CD`, `Proxmox`, `Grafana`, `Photoshop`
+> nano purpose.txt
+- Break the Matrix with LangChain spells 🧙‍♂️
+- Fix bugs I didn’t write, in systems I’ve never seen 👾
+- Build cool sh*t with brilliant minds 🤝
+```
 
 ---
 
-## 📈 Projects Snapshot
+## ⚙️ TOOLS INSTALLED
 
-- **🎥 Video Banking System** – Virtual support system for banks, used over 35,000+ minutes monthly
-- **🏥 CRM App for Pharma Sales** – Streamlined medicine distribution using Laravel, Grafana
-- **🖥️ System Utilization Analyzer** – Real-time PC status tracking with Python, PostgreSQL, Grafana
+```bash
+> sudo apt install skills --yes
 
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/bhoobalan-b-r" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://discord.com/users/kal#6704" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-  <a href="https://www.github.com/bhoobalan-bhoo" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/bhoobalan_br" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
+🧬 LANGUAGES:  Python, Node.js, Java, PHP, C  
+🧱 FRAMEWORKS: Vue.js, React.js, Laravel, FastAPI, LangChain, Flask  
+🧠 AI TOOLS:   LLMs, Prompt Engineering, Guardrails  
+🗃️ DATABASES: PostgreSQL, MySQL, MongoDB, ClickHouse, DynamoDB, Redis  
+📦 DEVOPS:    Docker, AWS, Proxmox, CI/CD  
+🎨 CREATIVE:  Photoshop, Illustrator, Git Wizardry
+```
 
 ---
 
-🧩 Let’s build something amazing together.
+## 🛰️ CURRENTLY TRANSMITTING...
+
+```bash
+> tail -f life.log
+
+🌌 Learning: ClickHouse + LLM pipelines  
+🚀 Project: Video Banking System (35,000+ mins streamed monthly)  
+🧪 Experimenting: Secure AI prompts w/ Guardrails  
+📡 Seeking: Remote missions, meaningful problems, galactic compensation
+```
+
+---
+
+## 🔐 SECRET PROJECTS
+
+```bash
+> ls ~/projects/
+
+📁 crm-medicine-distribution/      // Laravel + Grafana + PostgreSQL  
+📁 system-utilization-analyzer/    // Python + Grafana dashboard  
+📁 virtual-bank-support/           // Node.js + ML cost estimator + EC2 scaling
+```
+
+---
+
+## 🛰️ CONTACT PROTOCOL
+
+```bash
+> connect --to=bhoobalan
+
+📧 Email: bhoobalanrajavel@gmail.com  
+🌐 Portfolio: https://bhoobalan-bhoo.github.io/  
+📄 Resume: https://bhoobalan.s3.ap-south-1.amazonaws.com/Bhoobalan-B-R.pdf  
+🔗 LinkedIn: https://linkedin.com/in/bhoobalan-b-r  
+🧠 GitHub: https://github.com/bhoobalan-bhoo
+🛰️ Discord: kal#6704
+```
+
+---
+
+## ☠️ FUN FACT
+
+```bash
+> fortune | lolcat
+
+💬 “Once debugged a prod issue using just logs, muscle memory, and blind faith.”  
+💬 “Built a feedback system covering 30,000+ homes using QR magic and Photoshop automation.”  
+💬 “Talks to APIs like they're people. They usually respond.”
+```
+
+---
+
+## 🧩 JOIN MY QUEST?
+
+```bash
+> apply --with-curiosity --no-bs --hire-bhoobalan
+
+Let's disrupt the ordinary together 🚀
+```
