@@ -8,7 +8,7 @@
 ## 🧠 About Me
 
 - 🎓 Graduate in Computer Science & Engineering (CGPA: 8.9)
-- 🌱 Currently exploring: `ClickHouse`, `LangChain`, `LLMs`, `FastAPI`, `Prompt Engineering`
+- 🌱 Currently exploring: `ClickHouse`, `LangChain`, `LLMs`, `LCM's`
 - 👨‍💻 I love working on real-time web systems, dev tools, and automation
 - 🤝 Open to collaborating on meaningful tech products or SaaS tools
 - ✉️ Reach me at:  
