@@ -13,7 +13,6 @@
 - 🤝 Open to collaborating on meaningful tech products or SaaS tools
 - ✉️ Reach me at:  
   [📧 bhoobalanrajavel@gmail.com](mailto:bhoobalanrajavel@gmail.com)  
-  [📧 bhoobalan.cs20@bitsathy.ac.in](mailto:bhoobalan.cs20@bitsathy.ac.in)
 - 💼 Open to work!  
 <a href="https://bhoobalan.s3.ap-south-1.amazonaws.com/Bhoobalan-B-R.pdf" target="_blank">📄 Resume</a> | <a href="https://bhoobalan-bhoo.github.io/" target="_blank">🌐 Portfolio</a>
 
