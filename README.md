@@ -35,7 +35,7 @@ class Developer:
         return {
             "email": "bhoobalanrajavel@gmail.com",
             "resume": "https://bhoobalan.s3.ap-south-1.amazonaws.com/Bhoobalan-B-R.pdf",
-            "portfolio": "https://bhoobalan-bhoo.github.io/"
+            "portfolio": "https://www.bhoobalan.in/"
         }
 ```
 
