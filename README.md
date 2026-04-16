@@ -34,7 +34,7 @@ class Developer:
     def contact(self):
         return {
             "email": "bhoobalanrajavel@gmail.com",
-            "resume": "https://bhoobalan.s3.ap-south-1.amazonaws.com/Bhoobalan-B-R.pdf",
+            "resume": "https://bhoobalan.in/resume",
             "portfolio": "https://www.bhoobalan.in/"
         }
 ```
